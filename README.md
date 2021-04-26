@@ -1,4 +1,4 @@
-# LinearSystems
+# Linear Systems
 
 Different linear systems solvers that I had to implement on Matlab.
 
