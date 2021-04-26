@@ -21,10 +21,10 @@ We calculate p using Cauchy Point or Dog Leg.
 
 
 ## Newton method visualization
-<img src="https://github.com/ipmach/LinearSystems/blob/master/img/plot1.png" alt="drawing" width="500"/>
+  &emsp; &emsp; &emsp; &emsp; <img src="https://github.com/ipmach/LinearSystems/blob/master/img/plot1.png" alt="drawing" width="500"/>
 
 ## Trust regions method visualization
-<img src="https://github.com/ipmach/LinearSystems/blob/master/img/plot2.png" alt="drawing" width="500"/>
+  &emsp; &emsp; &emsp; &emsp; <img src="https://github.com/ipmach/LinearSystems/blob/master/img/plot2.png" alt="drawing" width="500"/>
 
 ## Multigrid with Gauss-Seidel and Jacobi method visualization
 <img src="https://github.com/ipmach/LinearSystems/blob/master/img/plot3.png" alt="drawing" width="700"/>
