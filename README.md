@@ -13,7 +13,7 @@ In our implementation we use a direct solver: <br>
 And we solve doing iterations: <br>
 &emsp; &emsp; &emsp; &emsp; <img src="https://github.com/ipmach/LinearSystems/blob/master/img/equations/Schawarz2.png" alt="drawing" width="250"/> 
 * **Trust regions method**: We try to solve the next optimization function, where f is our original function: <br>
-&emsp; &emsp; &emsp; &emsp; <img src="https://github.com/ipmach/LinearSystems/blob/master/img/equations/TrustRegion.png" alt="drawing" width="360"/>   <br>
+&emsp; &emsp; &emsp; &emsp; <img src="https://github.com/ipmach/LinearSystems/blob/master/img/equations/TrustRegion_.png" alt="drawing" width="360"/>   <br>
 we calculate rho using this method: <br>
 &emsp; &emsp; &emsp; &emsp; <img src="https://github.com/ipmach/LinearSystems/blob/master/img/equations/TrustRegion2.png" alt="drawing" width="220"/>   <br>
 We calculate p using Cauchy Point or Dog Leg.
