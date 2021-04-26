@@ -17,7 +17,7 @@ And we solve doing iterations: <br>
 we calculate rho using this method: <br>
 &emsp; &emsp; &emsp; &emsp; <img src="https://github.com/ipmach/LinearSystems/blob/master/img/equations/TrustRegion2.png" alt="drawing" width="220"/>   <br>
 We calculate p using Cauchy Point or Dog Leg.
-* Multigrid with Gauss-Seidel and Jacobi
+* **Multigrid with Gauss-Seidel and Jacobi**: We implemeted Two level method and recursive method.
 
 
 ## Newton method visualization
